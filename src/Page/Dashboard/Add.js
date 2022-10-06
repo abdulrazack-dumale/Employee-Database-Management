@@ -109,4 +109,4 @@ function Add({ employees, setEmployees, setIsAdding }) {
     );
 }
 
-export default Add
+export default Add 
