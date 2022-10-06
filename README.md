@@ -1,26 +1,35 @@
-# Getting Started with Create React App
+#
+BY ABDI DUMALE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# project description
 
-## Available Scripts
+This project is about employee database management that holds data of current employee and registering new employees into the system.
 
-In the project directory, you can run:
+## Features of the project 
 
-### `npm start`
+As a user of the web app,you will be able to : 1.register details of new employee 2. update details of the current employee. 3. Delete the employees that exited the service.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Requirements
+Access to a computer, smartphone or other devices
+Access to internet
 
 
-### `npm run eject`
+### installation process 
+Clone to this repo : git clone https://github.com/abdulrazack-dumale/Employee-Database-Management.git
+Unzip the downloaded files in a folder of choice.
+Open the index file from the zipped file with any browser.
+
+
+### License
+MIT License
+
+Copyright (c) 2022 Abdi Dumale
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 
