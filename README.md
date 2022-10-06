@@ -15,9 +15,9 @@ Access to internet
 
 
 ### installation process 
-Clone to this repo : git clone https://github.com/abdulrazack-dumale/Employee-Database-Management.git
-Unzip the downloaded files in a folder of choice.
-Open the index file from the zipped file with any browser.
+1.Clone to this repo : git clone https://github.com/abdulrazack-dumale/Employee-Database-Management.git
+2.Unzip the downloaded files in a folder of choice.
+3.Open the index file from the zipped file with any browser.
 
 
 ### License
