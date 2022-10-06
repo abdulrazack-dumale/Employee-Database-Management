@@ -1,5 +1,4 @@
-#
-BY ABDI DUMALE
+
 
 # project description
 
@@ -11,6 +10,7 @@ As a user of the web app,you will be able to : 1.register details of new employe
 
 ### Requirements
 Access to a computer, smartphone or other devices
+
 Access to internet
 
 
