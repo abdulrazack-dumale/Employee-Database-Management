@@ -2,7 +2,7 @@
 
 # project description
 
-This project is about employee database management that holds data of current employee and registering new employees into the system.
+This project is about employee database management that holds data of current employee and registering new employees into the system. the deployed link 
 
 ## Features of the project 
 
