@@ -2,7 +2,7 @@
 
 # project description
 
-This project is about employee database management that holds data of current employee and registering new employees into the system. the deployed link to this app is  https://dapper-begonia-1734e2.netlify.app 
+This project is about employee database management that holds data of current employee and registering new employees into the system. the deployed link to this app is  https://meek-dolphin-fda848.netlify.app/
 
 ## Features of the project 
 
